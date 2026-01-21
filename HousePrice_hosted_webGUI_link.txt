@@ -2,5 +2,5 @@ Name: [Your Full Name Here]
 Matric Number: [Your Matric Number Here]
 Machine Learning Algorithm Used: Random Forest Regressor
 Model Persistence Method Used: Joblib
-Live URL of Hosted Application: https://winecultivar-emilola-divine-23cg034066.onrender.com
+Live URL of Hosted Application: https://houseprice-project-emilola-divine.onrender.com
 GitHub Repository Link: https://github.com/divinesta/HousePrice_Project_Emilola_Divine_23CG034066.git
