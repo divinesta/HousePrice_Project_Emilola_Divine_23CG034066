@@ -4,28 +4,3 @@ Machine Learning Algorithm Used: Random Forest Regressor
 Model Persistence Method Used: Joblib
 Live URL of Hosted Application: https://winecultivar-emilola-divine-23cg034066.onrender.com
 GitHub Repository Link: https://github.com/divinesta/HousePrice_Project_Emilola_Divine_23CG034066.git
-
-==================================================
-DEPLOYMENT INSTRUCTIONS COMPLETED:
-==================================================
-✅ Model trained and saved
-✅ Flask web application created
-✅ Deployed on: [Platform name - e.g., Render.com]
-✅ Successfully tested
-
-==================================================
-PROJECT FEATURES:
-==================================================
-- 6 features used: OverallQual, GrLivArea, TotalBsmtSF, GarageCars, YearBuilt, Neighborhood
-- Random Forest Regressor with 100 estimators
-- R² Score: [Insert your R² score here]
-- RMSE: [Insert your RMSE here]
-- MAE: [Insert your MAE here]
-
-==================================================
-NOTES:
-==================================================
-- All requirements met as per assignment specifications
-- Model can be reloaded without retraining
-- Web GUI accepts user inputs and displays predictions
-- Complete project structure uploaded to GitHub
